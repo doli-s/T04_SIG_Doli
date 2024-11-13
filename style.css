@@ -1,0 +1,114 @@
+*{
+    margin: 1px;
+    background-color: #ba8603;
+    color: #fff;
+}
+.main-portofolio{
+    justify-content: center;
+    display: flex;
+    margin: 5px;
+}
+.portofolio{
+    border-style: solid;
+
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+.biodata{
+    border-style:solid;
+    border-width: 1px;
+    width: 300px;
+    height: 300px;
+}
+
+.foto{
+    border-style: solid;
+    border-width: 1px;
+    width: 300px;
+    height: 300px;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1px;
+}
+img{
+    background-color: rgb(255, 0, 0);
+    border: 1px solid;
+    border-radius: 200px;
+    width: 250px;
+    height: 250px;
+}
+
+.main-about{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.about{
+    border-style: solid;
+    border-width: 1px;
+    width: 606px;
+    height: 150px;
+    text-align: center;
+}
+.about h4{
+    margin-top: 30px;
+}
+.main-biodata{
+    display: flex;
+    justify-content: center;
+}
+.nama{
+    border-style:solid ;
+    width: 300px;
+    height:400px;
+    margin: 1px;
+    border-width: 1px;
+    text-transform: uppercase;
+}
+.nama p{
+    text-align: center;
+    position: relative;
+    top: 50%;
+}
+
+.biodata h4{
+    margin-top: 20%;
+    text-align: center;
+}
+
+.lain{
+    border-style: solid;
+    border-width: 1px;
+    margin: 1px;
+    width: 303px;
+}
+
+.lain h4{
+    text-align: center;
+}
+.riwayat{
+    margin-top: 20px;
+    padding: 10px;
+}
+
+hr{
+    margin-top: 40px;
+}
+
+.kontak{
+    margin-top: 40px;
+    padding: 10px;
+}
+a{
+    text-decoration: underline;
+    color: #fff;
+}
+
+a:hover {
+    color:  blue;
+
+}
